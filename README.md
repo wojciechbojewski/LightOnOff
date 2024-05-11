@@ -31,3 +31,8 @@ python GuiApp.py
 using
 - Python 3.12.2
 - pygame 2.5.2
+
+**Demo**
+
+![image](demo.png)
+
